@@ -1,0 +1,66 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 23-05-2019, 20:06:48
+    Author     : danya
+*/
+.navbar-center{
+    margin: auto;
+}
+.navbar{
+
+}
+.container{
+    max-width: 1140px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#main-img{
+    max-width: 100%;
+    height: auto;
+}
+
+#main-img-lasik{
+    width: 350px;
+    height: 210px;
+}
+
+.mitad{
+    height: 70px;
+    width: 100%;    
+    text-align: center;
+    padding-top: 20px;
+}
+.content-main{
+    margin-top: 35px;
+}
+.footer-copyright{
+    background:  #000;
+}
+.footer-copyright-superior{
+    margin-top: 45px;
+    background:  #000;
+}
+
+#img-footer{
+    height: 40px;
+    width: 40px;
+    margin-top: 25px;
+}
+
+a{
+    color: white;
+}
+
+.mision-vision{
+    margin-top: 40px;
+}
+
+
+
